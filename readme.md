@@ -22,3 +22,6 @@ Build a simple readme markdown previewer that allows users to enter markdown tex
 ![home](image.png)
 
 ## Deployment link
+[Live Demo](https://markdown-previewer-eight-psi.vercel.app/)
+
+[GitHub Repo](https://github.com/Ganesh-Ghadage/markdown-previewer)
